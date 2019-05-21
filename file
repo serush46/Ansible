@@ -18,6 +18,10 @@ curl -X POST \
      https://login.microsoftonline.com/a0c064bc-4064-40d7-8839-******/oauth2/token
 
 
+Service principal  : 1abfeabe-24a1-4659-b497-51a27b1e68er
+
+Secret Key : /:_vPIEbEu9dhfJ@Ffd5TtKaUdvhw45
+
 
 #Get VNET Rule
 
